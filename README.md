@@ -16,7 +16,7 @@ This data science project series walks through step by step process of how to bu
 1. Create EC2 instance using amazon console, also in security group add a rule to allow HTTP incoming traffic
 2. Now connect to your instance using a command like this,
 ```
-ssh -i "C:\Users\Viral\.ssh\Banglore.pem" ubuntu@ec2-3-133-88-210.us-east-2.compute.amazonaws.com
+ssh -i "C:\Users\yaman\.ssh\Banglore.pem" ubuntu@ec2-3-133-88-210.us-east-2.compute.amazonaws.com
 ```
 3. nginx setup
    1. Install nginx on EC2 instance using these commands,
